@@ -1,5 +1,7 @@
 # pypi_nginx_cache
 
+**This utility was authored by [@hauntsaninja](https://github.com/hauntsaninja), this fork is maintained for internal use in Astral tests.**
+
 A PyPI cache using nginx.
 
 ## Usage
